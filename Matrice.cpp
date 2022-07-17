@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Matrice d'ordre 4 pour exemple, mais extensible en changeant le nombre n de colonnes de la matrice mat et avec n le second argument de la fonction luDecomposition ====> luDecomposition(mat[], n);
+
 void luDecomposition(float mat[][4], int n)
 
 {
